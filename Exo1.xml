@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<personne>
-	<ident>
-		<nom>POMPEY</nom>
-		<prenom>Melodie</prenom>
-		<datenaiss>1992-03-10</datenaiss>
-	</ident>
-	<adr1>1 boulevard General de Gaulle</adr1>
-	<cp>84120</cp>
-	<ville>Pertuis</ville>
-	<pays>France</pays>
-</personne>
+<!DOCTYPE personnes SYSTEM "DTDExo1.dtd">
+<personnes>
+	<personne id="P01">
+		<ident>
+			<nom>POMPEY</nom>
+			<prenom>Melodie</prenom>
+			<datenaiss>1992-03-10</datenaiss>
+		</ident>
+		<adr1>1 boulevard General de Gaulle</adr1>
+		<cp>84120</cp>
+		<ville>Pertuis</ville>
+		<pays>France</pays>
+	</personne>
+	<personne id="P02">
+		<ident>
+			<nom>POMPEY</nom>
+			<prenom>Melodie</prenom>
+			<datenaiss>1992-03-10</datenaiss>
+		</ident>
+		<adr1>1 boulevard General de Gaulle</adr1>
+		<cp>84120</cp>
+		<ville>Pertuis</ville>
+		<pays>France</pays>
+	</personne>
+</personnes>
