@@ -14,8 +14,33 @@ facture{
 }
 
 client{
+/*marge bloc*/
 	margin-top:3cm;
 	margin-left:12cm;
 	margin-right:1cm;
 	margin-bottom:3cm;
+/*marge inter*/
+	padding:0.5cm;
+	color:blue;
+	background-color:lightpink;
 }
+
+ligne>*{
+display:inline-block;
+}
+
+ref{
+	width:4cm;
+	text-align:center;
+}
+
+designation{
+	width:8cm;
+}
+
+phtByUnit, nbUnit, stotligne{
+	width:calc( calc(100% - 8cm - 4cm - 4%) / 3);
+}
+
+/*suppression de l'affichage d'une balise*/
+surface{display:none}

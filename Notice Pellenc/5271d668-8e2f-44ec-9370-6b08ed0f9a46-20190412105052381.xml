@@ -1,0 +1,2956 @@
+<?xml version='1.0' encoding='UTF-8'?><article xmlns="http://docbook.org/ns/docbook" xmlns:cco="http://www.calenco.com/ns/configurator" xmlns:db="http://docbook.org/ns/docbook" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xlink="http://www.w3.org/1999/xlink" xml:lang="fr" version="5.0" xml:id="notice_rasion_easy2_fre">
+  <info>
+    <author>
+      <personname>Laurène VIRGINIUS</personname>
+    </author>
+    <pubdate>(Date de retour de traduction souhaitée)</pubdate>
+    <title xml:id="nom_outil">Selion T175-225 / T220-300</title>
+    <productname xml:id="gamme_outil">Scie à chaîne perche</productname>
+    <subtitle>Notice d'Instructions</subtitle>
+    <productnumber>51_148662-D</productnumber>
+    <cover>
+      <mediaobject>
+        <imageobject>
+          <imagedata width="184mm" fileref="../51N_19_058.png" align="center"/>
+        </imageobject>
+      </mediaobject>
+    </cover>
+    <revhistory>
+      <revision>
+        <date>09/2022</date>
+        <revdescription>
+          <simpara>Notice originale</simpara>
+        </revdescription>
+      </revision>
+    </revhistory>
+    <legalnotice>
+      <simpara>LIRE ATTENTIVEMENT LE GUIDE DE L'UTILISATEUR AVANT TOUTE UTILISATION</simpara>
+    </legalnotice>
+  </info>
+  <?hard-pagebreak?>
+  
+  <xi:include href="7ad9e04a-3d39-4814-a9bf-201845a277f1-20190122173101186.xml" xpointer="id_01-Introduction-_Introduction-_16">
+    <xi:fallback/>
+  </xi:include>
+  <?hard-pagebreak?>
+  
+  <section>
+    <title>Sécurité</title>
+    <section xml:id="id_51N---148662-C--_Intended-usageTh_64">
+      <title>Usages prévus</title>
+      <itemizedlist>
+        <listitem>
+          <para>La <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter> est prévue pour la coupe de bois, de branches, jusqu'à un diamètre correspondant à la longueur du guide-chaîne</para>
+        </listitem>
+        <listitem>
+          <para>La  <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter> doit être utilisée depuis le sol ou plateforme adaptée entièrement stable et sécurisée.</para>
+        </listitem>
+        <listitem>
+          <para>La  <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter> est uniquement destinée à être utilisée à l'extérieur.</para>
+        </listitem>
+        <listitem>
+          <para>Toute autre utilisation de la  <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter> n'est pas prévue.</para>
+        </listitem>
+        <listitem>
+          <para>Le montage sur la  <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter> n'est autorisé que pour les pièces de rechange d'origine ou homologuées par le fabricant (guide-chaîne, chaîne de scie par exemple) ainsi que pour les combinaisons autorisées de guide-chaîne / chaîne de scie comme indiqué dans le manuel.</para>
+        </listitem>
+        <listitem>
+          <para>L'utilisateur est responsable de tout accident résultant d'une utilisation non conforme ou d'une modification non autorisée de la <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter>.</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section xml:id="id_51N---148662-C--_Residual-risksEv_67">
+      <title>Risques résiduels</title>
+      <para>Même avec l'utilisation prévue de la <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter>, il y a toujours un risque résiduel, qui ne peut être évité. Les risques potentiels suivants peuvent s'appliquer :</para>
+      <itemizedlist>
+        <listitem>
+          <para>Risque de coupure lié au contact avec les dents de scie exposées de l'outil</para>
+        </listitem>
+        <listitem>
+          <para>Risque de coupure lié à l’accès à la chaîne en mouvement</para>
+        </listitem>
+        <listitem>
+          <para>Risque de coupure lié à un mouvement imprévu et brusque du guide-chaîne</para>
+        </listitem>
+        <listitem>
+          <para>Risque de coupure ou de perforation lié à la projection de pièces de l'outil</para>
+        </listitem>
+        <listitem>
+          <para>Risque de projection de morceaux de bois, écorce, … lors de la coupe</para>
+        </listitem>
+        <listitem>
+          <para>Risque d’allergie lié au contact cutané avec l’huile de chaîne</para>
+        </listitem>
+        <listitem>
+          <para>Risque d’incendie lié à la coupe de certaines essences de bois particulièrement inflammables</para>
+        </listitem>
+        <listitem>
+          <para>Risque d’électrisation/électrocution en cas de contact ou de proximité entre l'outil et des câbles sous tension.</para>
+        </listitem>
+        <listitem>
+          <para>Risque
+de choc lors de la chute de branches coupées</para>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <xi:include href="b154560d-b39f-4abb-9d56-f3e1b323d2a9.xml" xpointer="Instructions-securite-OEP">
+      <xi:fallback/>
+    </xi:include>
+    <xi:include href="9d4397a2-36ae-42ae-8775-f8407d466983.xml">
+      <xi:fallback/>
+    </xi:include>
+    <xi:include href="0a354720-6ca9-46c5-82ae-457c3cf34405.xml">
+      <xi:fallback/>
+    </xi:include>
+    <xi:include xpointer="MesuresSecuriteUsageBatterieChargeur" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+      <xi:fallback/>
+    </xi:include>
+    <section xml:id="signauxDeSécurité">
+      <title xml:id="autocollants">Signaux de sécurité</title>
+      <informaltable colsep="0" frame="none" xml:id="TabSignauxDeSecurite" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2"/>
+          <tbody>
+            <row>
+              <entry nameend="_2" namest="_1">
+                <mediaobject>
+                  <imageobject>
+                    <imagedata fileref="../51_22_002.png" valign="middle" depth="110mm" align="center"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <informaltable colsep="0" frame="none" rowsep="0">
+                  <tgroup cols="3">
+                    <colspec colwidth="25mm" colname="_1223462311"/>
+                    <colspec colwidth="4mm" colname="_122346231"/>
+                    <colspec colname="_122346"/>
+                    <tbody valign="middle">
+                      <xi:include href="00_Biblio_Pictogramme_securite_OEP.xml" xpointer="securite_94db">
+                        <xi:fallback/>
+                      </xi:include>
+                      <xi:include xpointer="Picto_Taille_Guide_138823_138883" href="00_Biblio_Pictogramme_securite_OEP.xml">
+                        <xi:fallback/>
+                      </xi:include>
+                      <xi:include href="00_Biblio_Pictogramme_securite_OEP.xml" xpointer="Obligation_Lire-Manuel">
+                        <xi:fallback/>
+                      </xi:include>
+                      <xi:include href="00_Biblio_Pictogramme_securite_OEP.xml" xpointer="id_Biblio---Pictogr__130">
+                        <xi:fallback/>
+                      </xi:include>
+                    </tbody>
+                  </tgroup>
+                </informaltable>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <informaltable colsep="0" frame="none" rowsep="0">
+                  <tgroup cols="3">
+                    <colspec colwidth="25mm" colname="_1223462311"/>
+                    <colspec colwidth="4mm" colname="_122346231"/>
+                    <colspec colname="_122346"/>
+                    <tbody valign="middle">
+                      <xi:include xpointer="Obligation_port_gants_pantalon" href="00_Biblio_Pictogramme_securite_OEP.xml">
+                        <xi:fallback/>
+                      </xi:include>
+                      <xi:include href="00_Biblio_Pictogramme_securite_OEP.xml" xpointer="Picto_Risque_Brulure">
+                        <xi:fallback/>
+                      </xi:include>
+                      <xi:include href="00_Biblio_Pictogramme_securite_OEP.xml" xpointer="id_Métériaux_Conducteur">
+                        <xi:fallback/>
+                      </xi:include>
+                      <xi:include xpointer="interdiction_exposition_pluie" href="00_Biblio_Pictogramme_securite_OEP.xml">
+                        <xi:fallback/>
+                      </xi:include>
+                    </tbody>
+                  </tgroup>
+                </informaltable>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section xml:id="equipementProtectionIndividuel">
+      <title>Équipement de protection individuelle</title>
+      <informaltable>
+        <tgroup cols="4">
+          <colspec colname="_1" align="center"/>
+          <colspec colname="_12" colwidth="15mm"/>
+          <colspec colname="_123"/>
+          <colspec colname="_2"/>
+          <tbody>
+            <row>
+              <entry morerows="8">
+                <simpara/>
+                <mediaobject>
+                  <imageobject>
+                    <imagedata fileref="../00_20_028.png" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara><emphasis role="bold">Équipement</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara><emphasis role="bold">Port</emphasis></simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>1</simpara>
+              </entry>
+              <entry>
+                <simpara>Casque de sécurité</simpara>
+              </entry>
+              <entry>
+                <simpara>Obligatoire</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>2</simpara>
+              </entry>
+              <entry>
+                <simpara>Visière de protection</simpara>
+              </entry>
+              <entry>
+                <simpara>Recommandé</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>3</simpara>
+              </entry>
+              <entry>
+                <simpara>Gants résistants</simpara>
+              </entry>
+              <entry>
+                <simpara>Obligatoire</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>4</simpara>
+              </entry>
+              <entry>
+                <simpara>Chaussures de sécurité</simpara>
+              </entry>
+              <entry>
+                <simpara>Obligatoire</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>5</simpara>
+              </entry>
+              <entry>
+                <simpara>Dispositif antibruit</simpara>
+              </entry>
+              <entry>
+                <simpara>Obligatoire</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>6</simpara>
+              </entry>
+              <entry>
+                <simpara>Lunette de protection</simpara>
+              </entry>
+              <entry>
+                <simpara>Obligatoire</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>7</simpara>
+              </entry>
+              <entry>
+                <simpara>Veste ou manchettes</simpara>
+              </entry>
+              <entry>
+                <simpara>Obligatoire</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>8</simpara>
+              </entry>
+              <entry>
+                <simpara>Pantalon de travail</simpara>
+              </entry>
+              <entry>
+                <simpara>Obligatoire</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section xml:id="id_51N---148662-C--_Good-practices-f_66">
+      <title>Réflexes de sécurité</title>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <row>
+              <entry>
+                <caution>
+                  <itemizedlist>
+                    <listitem>
+                      <simpara>Dégager votre poste de travail avant de tronçonner. </simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Calculer le point de chute de l’objet que vous coupez.</simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Veiller à ce que la tronçonneuse ne soit pas repoussée par l’objet à couper. </simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Se placer correctement pour éviter tout accident. </simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Ne jamais couper sur une échelle.</simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Maintenir toute personne à l’écart. Ne jamais faire tenir l’objet que vous coupez. </simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Couper les branches en morceaux de taille correcte de l'extérieur de l'arbre vers le tronc (1)(2)(3)(4). </simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Faire attention aux rebonds des branches coupées suite à leur chute au sol. </simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Utiliser le harnais de portage pour le transport de l'outil.</simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>Mettre le protecteur de guide et de la chaîne pour tous les transports, manipulation et stockage de l'outil, voir <xref linkend="DeposePoseProtecteurChaine"/>.</simpara>
+                    </listitem>
+                  </itemizedlist>
+                </caution>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry morerows="0">
+                <simpara/>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata fileref="../51N_19_010.png" valign="middle" align="center"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry nameend="_2" namest="_1">
+                <itemizedlist>
+                  <listitem>
+                    <simpara>Garder le bras gauche tendu pour un meilleur contrôle.</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Tenir la tronçonneuse de côté et non de face. </simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Utiliser des chaînes et guides d’origine <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include>. </simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Maintenir la chaîne, le guide et le pignon en bon état de fonctionnement. </simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Se tenir jambes écartées, bien en équilibre. </simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Penser à varier les positions de travail et penser à faire des pauses pendant le travail.</simpara>
+                  </listitem>
+                </itemizedlist>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+  </section>
+  <section xml:id="id_51N---148662-C--_Description-and-_68">
+    <title>Descriptifs et caractéristiques techniques</title>
+    <section role="noCut" xml:id="id_51N---148662-C--_Descriptif_126">
+      <title xml:id="descriptif">Descriptif</title>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="2">
+          <colspec colname="_1" colwidth="50*"/>
+          <colspec colname="_2" colwidth="50*"/>
+          <tbody>
+            <row>
+              <entry nameend="_2" namest="_1">
+                <mediaobject>
+                  <imageobject>
+                    <imagedata align="center" fileref="../51N_19_059.png" depth="90mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <orderedlist>
+                  <listitem>
+                    <simpara>Tube de perche</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Bouchon du réservoir d’huile</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Voyant de mise sous tension</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Gâchette de sécurité</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Poignée</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Cordon d’alimentation de l’outil</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Gâchette d’actionnement</simpara>
+                  </listitem>
+                  <listitem override="8">
+                    <simpara>Sangle de portage réglable</simpara>
+                  </listitem>
+                </orderedlist>
+              </entry>
+              <entry>
+                <orderedlist continuation="continues">
+                  <listitem>
+                    <para>Articulation de la tête</para>
+                  </listitem>
+                  <listitem>
+                    <para>Carter de la chaîne </para>
+                  </listitem>
+                  <listitem>
+                    <para>Manette rapide serrage guide</para>
+                  </listitem>
+                  <listitem>
+                    <para>Écrou de serrage du carter de chaîne</para>
+                  </listitem>
+                  <listitem>
+                    <para>Guide de chaîne</para>
+                  </listitem>
+                  <listitem>
+                    <para>Chaîne de scie</para>
+                  </listitem>
+                  <listitem>
+                    <para>Écrou de blocage</para>
+                  </listitem>
+                </orderedlist>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section>
+      <title>Caractéristiques techniques</title>
+      <section xml:id="caracteristiquesGenerales" role="noCut">
+        <title>Caractéristiques générales</title>
+        <informaltable xml:id="TabCaracteristiquesGenerales">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" align="center" colwidth="57mm"/>
+            <colspec colname="_2" align="center" colwidth="57mm"/>
+            <thead>
+              <row>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <simpara>Selion T175-225</simpara>
+                </entry>
+                <entry>
+                  <simpara>Selion T220-300</simpara>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row xml:id="Lig01_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Autonomie</simpara>
+                </entry>
+                <entry nameend="_2" namest="_12" align="center">
+                  <simpara>Fonction de l’utilisation et du type de batterie</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig02_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Tension Nominale</simpara>
+                </entry>
+                <entry nameend="_2" namest="_12" align="center">
+                  <simpara>43.2V</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig03_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Capacité du réservoir d'huile de chaîne</simpara>
+                </entry>
+                <entry nameend="_2" namest="_12" align="center">
+                  <simpara>25 cl</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig04_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Longueur de coupe utile /guide de chaîne</simpara>
+                </entry>
+                <entry nameend="_2" namest="_12" valign="middle" align="center" morerows="1">
+                  <simpara>Voir le tableau <xref linkend="compatibiliteGuideChaineetChaine"/></simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig05_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Chaîne Type / Pas / Jauge</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig06_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Compatibilité batterie</simpara>
+                </entry>
+                <entry nameend="_2" namest="_12" align="center">
+                  <simpara>ULIB 250 / ALPHA 260 / ALPHA 520 / ULIB 700 / ULIB 750 / OLIVION +</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig07_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Pignon</simpara>
+                </entry>
+                <entry nameend="_2" namest="_12" align="center">
+                  <simpara>9 dents 1/4’’</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig08_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Vitesse de chaîne</simpara>
+                </entry>
+                <entry nameend="_2" namest="_12" align="center">
+                  <simpara>10.3 m/s</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig09_caracteristiquesGenerales">
+                <entry>
+                  <simpara>Poids de l’outil seul sans guide ni chaîne</simpara>
+                </entry>
+                <entry align="center">
+                  <simpara>3.25 kg</simpara>
+                </entry>
+                <entry align="center">
+                  <simpara>3.60 kg</simpara>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="compatibiliteGuideChaineetChaine">
+        <title>Compatibilité entre guide-chaîne et chaîne</title>
+        <informaltable>
+          <tgroup align="left" cols="6">
+            <colspec colname="_1"/>
+            <colspec colname="_2"/>
+            <colspec colname="_13"/>
+            <colspec colname="_134"/>
+            <colspec colname="_1345"/>
+            <colspec colname="_13456"/>
+            <thead>
+              <row valign="middle">
+                <entry>
+                  <simpara>Type de guide-chaîne</simpara>
+                </entry>
+                <entry>
+                  <simpara>Taille du guide (longueur de coupe utile)</simpara>
+                </entry>
+                <entry>
+                  <simpara>Pas de la chaîne</simpara>
+                </entry>
+                <entry>
+                  <simpara>Jauge de la chaîne</simpara>
+                </entry>
+                <entry>
+                  <simpara>Référence du guide</simpara>
+                </entry>
+                <entry>
+                  <simpara>Référence de la chaîne</simpara>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <simpara>GUIDE STANDARD (vendu en option)</simpara>
+                </entry>
+                <entry>
+                  <simpara>25 cm (10’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>6,35mm (1/4’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>1,3mm (0.05’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>66756</simpara>
+                </entry>
+                <entry>
+                  <simpara>64486</simpara>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <simpara>GUIDE CARVING (vendu en option)</simpara>
+                </entry>
+                <entry>
+                  <simpara>15 cm (6")</simpara>
+                </entry>
+                <entry>
+                  <simpara>6,35mm (1/4’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>1,3mm (0.05’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>80343</simpara>
+                </entry>
+                <entry>
+                  <simpara>71550</simpara>
+                </entry>
+              </row>
+              <row>
+                <entry morerows="0">
+                  <simpara>GUIDE PRECISION (vendu en option)</simpara>
+                </entry>
+                <entry>
+                  <simpara>15 cm (6")</simpara>
+                </entry>
+                <entry>
+                  <simpara>6,35mm (1/4’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>1,1mm (0.04’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>138788</simpara>
+                </entry>
+                <entry>
+                  <simpara>138880</simpara>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <simpara>GUIDE PRECISION (vendu en série)</simpara>
+                </entry>
+                <entry>
+                  <simpara>24 cm (9.4")</simpara>
+                </entry>
+                <entry>
+                  <simpara>6,35mm (1/4’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>1,1mm (0.04’’)</simpara>
+                </entry>
+                <entry>
+                  <simpara>138823</simpara>
+                </entry>
+                <entry>
+                  <simpara>138883</simpara>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="compatibilitéChargeursBatteries">
+        <title>Compatibilité chargeurs et batteries</title>
+        <informaltable>
+          <tgroup cols="3">
+            <colspec colname="_1" colwidth="50*"/>
+            <colspec colname="_12" colwidth="50*"/>
+            <colspec colname="_2" colwidth="80mm" align="center"/>
+            <thead>
+              <row>
+                <entry>
+                  <simpara>Batterie</simpara>
+                </entry>
+                <entry>
+                  <simpara>Chargeur</simpara>
+                </entry>
+                <entry>
+                  <simpara>Remarques</simpara>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <simpara>ULIB 250</simpara>
+                </entry>
+                <entry>
+                  <simpara>CB5010HV</simpara>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <simpara>Alpha 260</simpara>
+                </entry>
+                <entry>
+                  <simpara>CB5022 ; CB5022HV</simpara>
+                </entry>
+                <entry>
+                  <simpara>*avec cordon adaptateur réf. 57239</simpara>
+                </entry>
+              </row>
+              <row xml:id="Lig03_compatibiliteChargeursBatteries">
+                <entry>
+                  <simpara>Alpha 520</simpara>
+                </entry>
+                <entry>
+                  <simpara>CB5022 ; CB5022HV</simpara>
+                </entry>
+                <entry>
+                  <simpara>*avec cordon adaptateur réf. 57239</simpara>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <simpara>ULIB 700</simpara>
+                </entry>
+                <entry>
+                  <simpara>CB5022 ; CB5022HV</simpara>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+              </row>
+              <row xml:id="Lig05_compatibiliteChargeursBatteries">
+                <entry>
+                  <simpara>ULIB 750</simpara>
+                </entry>
+                <entry>
+                  <simpara>CB5022 ; CB5022HV</simpara>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <simpara>OLIVION +</simpara>
+                </entry>
+                <entry>
+                  <simpara>CB5022 ; CB5022HV</simpara>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="id_niveax_sonores">
+        <title>Niveaux sonores</title>
+        <simpara>La détermination des niveaux sonores et des taux de vibrations se base sur les conditions de fonctionnement au régime maximal nominal.</simpara>
+        <informaltable>
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="30mm"/>
+            <colspec colname="_2" align="center" colwidth="30mm"/>
+            <thead>
+              <row>
+                <entry>
+                  <simpara>Valeur de bruit mesurée selon EN 60745-1 et EN ISO 11680-2</simpara>
+                </entry>
+                <entry>
+                  <simpara>Selion T175-225</simpara>
+                </entry>
+                <entry>
+                  <simpara>Selion T220-300</simpara>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <simpara>Niveau de pression acoustique au poste de travail (Incertitude de mesure K<subscript>pA</subscript> = 3 dB(A))</simpara>
+                </entry>
+                <entry>
+                  <simpara>L<subscript>pA</subscript>=82 dB(A) </simpara>
+                </entry>
+                <entry align="left">
+                  <simpara>L<subscript>pA</subscript>=80 dB(A)</simpara>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <simpara>Niveau de puissance acoustique (incertitude de mesure K<subscript>WA</subscript> = 3 dB (A))</simpara>
+                </entry>
+                <entry>
+                  <simpara>L<subscript>WA</subscript>=90 dB(A) </simpara>
+                </entry>
+                <entry align="left">
+                  <simpara>L<subscript>WA</subscript>=91 dB(A) </simpara>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="id_niveaux_vibrations">
+        <title>Niveaux de vibrations</title>
+        <informaltable>
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" align="center" colwidth="35mm"/>
+            <colspec colname="_2" align="center" colwidth="35mm"/>
+            <thead>
+              <row>
+                <entry>
+                  <simpara>Valeur de vibration mesurée d'après EN 60745-1 et EN ISO 11680-2</simpara>
+                </entry>
+                <entry>
+                  <simpara>Selion T175-225</simpara>
+                </entry>
+                <entry>
+                  <simpara>Selion T220-300</simpara>
+                </entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>
+                  <simpara>Valeur d'émission de vibration</simpara>
+                </entry>
+                <entry>
+                  <simpara>a<subscript>h</subscript>=90 dB(A) </simpara>
+                </entry>
+                <entry>
+                  <simpara>a<subscript>h</subscript>=90 dB(A) </simpara>
+                </entry>
+              </row>
+              <row>
+                <entry>
+                  <simpara>Incertitude de mesure </simpara>
+                </entry>
+                <entry>
+                  <simpara>K = 0.52 m/s²</simpara>
+                </entry>
+                <entry>
+                  <simpara>K = 0.44 m/s²</simpara>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+    </section>
+  </section>
+  <section xml:id="id_51N---148662-C--_Commissioning-_72">
+    <title>Mise en service </title>
+    <caution>
+      <simpara><inlinemediaobject><imageobject><imagedata depth="6mm" fileref="../Exclusion-Garantie_inLine.png"/></imageobject></inlinemediaobject> Afin d'assurer le bon fonctionnement de l'outil, toutes les procédures de mise en service doivent impérativement être effectuées avant sa première utilisation.</simpara>
+    </caution>
+    <section>
+      <title>Contenu du carton</title>
+      <simpara>Vérifier que le carton contient :</simpara>
+      <itemizedlist>
+        <listitem>
+          <simpara>Une <parameter role="variable-text"> gamme_outil </parameter> <parameter role="variable-text">nom_outil</parameter> livré avec :</simpara>
+          <itemizedlist>
+            <listitem>
+              <simpara>1 guide de chaîne,</simpara>
+            </listitem>
+            <listitem>
+              <simpara>1 chaîne de scie,</simpara>
+            </listitem>
+            <listitem>
+              <simpara>1 protecteur de chaîne,</simpara>
+            </listitem>
+            <listitem>
+              <simpara>1 sangle de portage,</simpara>
+            </listitem>
+            <listitem>
+              <simpara>1 guide de l'utilisateur,</simpara>
+            </listitem>
+            <listitem>
+              <simpara>1 carte de garantie.</simpara>
+            </listitem>
+          </itemizedlist>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>Conseils pour la mise en service</title>
+      <caution>
+        <simpara>Toujours déconnecter la batterie de l'outil avant de commencer toute intervention sur l'outil.</simpara>
+      </caution>
+      <itemizedlist>
+        <listitem>
+          <simpara>Utiliser des produits recommandés par <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include>.</simpara>
+        </listitem>
+        <listitem>
+          <simpara>Se renseigner auprès du distributeur agréé <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include> en cas de problème.</simpara>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>Préparation de la tête de scie</title>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <row>
+              <entry>
+                <simpara>Le guide de chaîne et la chaîne sont livrés démontés. Se référer à <xref linkend="id_51N---148662-D--_Montage-de-la-ch_139230"/>, pour le montage du guide de chaîne et de la chaîne.</simpara>
+                <itemizedlist>
+                  <listitem>
+                    <simpara>Orienter la tête de scie dans le prolongement du tube de perche.</simpara>
+                  </listitem>
+                </itemizedlist>
+                <tip>
+                  <simpara>Positionner la tête de scie dans l’alignement de la perche afin de limiter l’effet de rebond ou de kickback.</simpara>
+                </tip>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata depth="60mm" valign="middle" fileref="../51N_19_019.png" width="80mm" align="center"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section xml:id="DeposePoseProtecteurChaine">
+      <title>Dépose / Pose du protecteur de guide chaîne</title>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1" colwidth="87.5*"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="87.5*"/>
+          <tbody>
+            <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig01_DeposePoseProtecteurChaine">
+              <xi:fallback/>
+            </xi:include>
+            <row>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata fileref="../51_22_068.png" valign="middle" align="center" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata fileref="../51_22_069.png" valign="middle" align="center" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section xml:id="id_51N---148662-D--_Montage-de-la-ch_139230">
+      <title>Montage de la chaîne et du guide de chaîne (Première Utilisation)</title>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig01_1erMontageChaineGuideChaine">
+              <xi:fallback/>
+            </xi:include>
+            <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig02_1erMontageChaineGuideChaine">
+              <xi:fallback/>
+            </xi:include>
+            <row>
+              <xi:include xpointer="Cell03_1erMontageChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata valign="middle" align="center" fileref="../51_22_029.png" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <xi:include xpointer="Cell04_1erMontageChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata valign="middle" align="center" fileref="../51_22_030.png" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <xi:include xpointer="Cell05_1erMontageChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata fileref="../51_22_031.png" valign="middle" align="center" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <xi:include xpointer="Cell06_1erMontageChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <note>
+        <simpara>Pour plus de précision sur la procédure, consulter : <xref linkend="RemplacementChaineGuideChaine"/>.</simpara>
+      </note>
+    </section>
+    <section>
+      <title>Tension automatique de la chaîne (Première utilisation)</title>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <row>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell01_1ereTensionAutomatiqueChaine">
+                <xi:fallback/>
+              </xi:include>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata fileref="../51_22_022.png" valign="middle" align="center" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <xi:include xpointer="Lig02_1ereTensionAutomatiqueChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+              <xi:fallback/>
+            </xi:include>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section>
+      <title>Lubrification de la chaîne (Première utilisation)</title>
+      <section xml:id="RemplissageReservoirHuile">
+        <title>Remplissage du réservoir d'huile</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig01_1erRemplissageReservoirHuile">
+                <xi:fallback/>
+              </xi:include>
+              <row>
+                <xi:include xpointer="Cell02_1erRemplissageReservoirHuile" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" depth="59mm" fileref="../51_22_024.png"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig03_1erRemplissageReservoirHuile">
+                <xi:fallback/>
+              </xi:include>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section>
+        <title>Premier cycle de lubrification forcée</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig00_1erCycleLubrificationForcee">
+                <xi:fallback/>
+              </xi:include>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell01_1erCycleLubrificationForcee">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" fileref="../51_22_020.png" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig02_1erCycleLubrificationForcee">
+                <xi:fallback/>
+              </xi:include>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+    </section>
+    <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Rodage">
+      <xi:fallback/>
+    </xi:include>
+    <section xml:id="InstallationBatterieHarnais">
+      <title>Installation de la batterie sur le harnais</title>
+      <simpara>Pour procéder à l'installation de la batterie sur votre harnais, se référer à la notice de montage fournie avec votre harnais. </simpara>
+      <important>
+        <simpara>Après l'installation, la batterie doit être parfaitement fixée et bloquée sur votre harnais. Le cas échéant, il est nécessaire de vérifier votre installation. </simpara>
+      </important>
+    </section>
+    <section xml:id="ConnexionBatterieOutil">
+      <title>Connexion des batteries <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include> à l'outil </title>
+      <important>
+        <simpara>Avant utilisation, veiller à toujours vérifier l'autonomie de la batterie. Le cas échéant, il est nécessaire de recharger la batterie à l'aide du chargeur.</simpara>
+        <simpara>Afin de prolonger la durée de vie des connecteurs, il est conseillé de les protéger lorsqu’ils sont à l’état débranché. Il faut donc éviter de les mettre en contact avec des surfaces abrasives, salissantes, ou de leur faire subir des chocs importants (chutes). </simpara>
+      </important>
+      <section>
+        <title>Batterie ULIB 250</title>
+        <xi:include href="56N_BIBLIO_ProceduresCommunesBatteries.xml" xpointer="TabConnexionUlib250ConecteurGauche">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+      <section>
+        <title>Batteries ULIB 750 / ALPHA 260 / ALPHA 520</title>
+        <xi:include href="56N_BIBLIO_ProceduresCommunesBatteries.xml" xpointer="Tab_ConnexionUlib750_1200_1500_Aplha260_520">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+      <section xml:id="id_51N---149238-D--__71699">
+        <title>Batterie ULIB 700 / Olivion+</title>
+        <xi:include href="56N_BIBLIO_ProceduresCommunesBatteries.xml" xpointer="Tab_ConnexionUlib700_OlivionPlus_PowerPackM_L">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+    </section>
+    <section xml:id="DeconnexionBatterieOutil">
+      <title>Déconnexion des batteries <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include> à l'outil </title>
+      <warning>
+        <simpara><inlinemediaobject><imageobject><imagedata depth="5mm" fileref="../Exclusion-Garantie_inLine.png"/></imageobject></inlinemediaobject> Ne jamais désaccoupler le cordon électrique de la batterie sans avoir vérifié que la batterie soit hors tension, voir <xref linkend="MiseSousHorsTensionBatterie"/>.</simpara>
+      </warning>
+      <important>
+        <simpara>Afin de prolonger la durée de vie des connecteurs, il est conseillé de les protéger lorsqu’ils sont à l’état débranché. Il faut donc éviter de les mettre en contact avec des surfaces abrasives, salissantes, ou de leur faire subir des chocs importants (chutes). </simpara>
+        <simpara>Pour plus d'informations sur les batteries <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include>, se reporter aux notices d'instructions des batteries.</simpara>
+      </important>
+      <section>
+        <title>Batterie ULIB 250</title>
+        <xi:include xpointer="TabDeconnexionUlib250ConecteurGauche" href="56N_BIBLIO_ProceduresCommunesBatteries.xml">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+      <section>
+        <title>Batteries ULIB 750 / ALPHA 260 / ALPHA 520</title>
+        <xi:include xpointer="Tab_DeconnexionUlib750_1200_1500_Aplha260_520" href="56N_BIBLIO_ProceduresCommunesBatteries.xml">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+      <section>
+        <title>Batterie ULIB 700 / Olivion+</title>
+        <xi:include href="56N_BIBLIO_ProceduresCommunesBatteries.xml" xpointer="Tab_DeconnexionUlib700_OlivionPlus_PowerPackM_L">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+    </section>
+  </section>
+  <section xml:id="id_51N---148662-C--_Using-the-toolAd_73">
+    <title>Utilisation</title>
+    <section xml:id="InstallationHarnais">
+      <title>Installation du harnais</title>
+      <itemizedlist>
+        <listitem>
+          <simpara>Enfiler votre harnais. ​Se référer à la notice de montage fournie avec votre harnais, pour procéder à l'ajustement de votre harnais en fonction de votre corpulence.​</simpara>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section xml:id="MiseSousHorsTensionBatterie">
+      <title>Mise sous tension et mise hors tension de la batterie</title>
+      <section>
+        <title>Batterie ULIB 250</title>
+        <xi:include xpointer="Tab_MiseSousHorsTensionUlib250" href="56N_BIBLIO_ProceduresCommunesBatteries.xml">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+      <section>
+        <title>Batterie ULIB 750</title>
+        <xi:include xpointer="Tab_MiseSousHorsTensionUlib750" href="56N_BIBLIO_ProceduresCommunesBatteries.xml">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+      <section>
+        <title>Batterie ALPHA 260 / ALPHA 520</title>
+        <xi:include xpointer="Tab_MiseSousHorsTensionAlpha260_520" href="56N_BIBLIO_ProceduresCommunesBatteries.xml">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+      <section>
+        <title>Batterie ULIB 700 / Olivion+</title>
+        <xi:include xpointer="Tab_MiseSousHorsTensionUlib700_OlivionPlus_PowerPackM_L" href="56N_BIBLIO_ProceduresCommunesBatteries.xml">
+          <xi:fallback/>
+        </xi:include>
+      </section>
+    </section>
+    <section>
+      <title>Prise en main de l'outil</title>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <row>
+              <entry>
+                <caution>
+                  <simpara><inlinemediaobject><imageobject><imagedata depth="5mm" fileref="../Exclusion-Garantie_inLine.png"/></imageobject></inlinemediaobject> Ne jamais couper autre chose que du bois.</simpara>
+                </caution>
+                <itemizedlist>
+                  <simpara>Pour l’utilisation et le transport de l’outil, utiliser <emphasis role="bold">la sangle de portage</emphasis> fournie. Pour une utilisation optimale, serrer les boucles et ajuster la sangle afin d'obtenir une position permettant un usage confortable et sûr. Se référer à l’illustration ci-contre.</simpara>
+                  <listitem>
+                    <simpara>Prendre en main l’outil par la poignée et son tube de perche et vérifier que rien ne touche la chaîne.</simpara>
+                    <simpara> L'outil est dans sa position de mise en route.</simpara>
+                  </listitem>
+                </itemizedlist>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata depth="120mm" valign="middle" width="80mm" align="center" fileref="../51N_19_018.png"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section>
+      <title>Ajustement de la perche télescopique</title>
+      <informaltable colsep="0" role="noCut" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <row>
+              <entry nameend="_2" namest="_1">
+                <warning>
+                  <simpara>Toujours réaliser l’ajustement de la perche avec la batterie hors tension et le cordon d'alimentation outil déconnecté de la batterie.</simpara>
+                </warning>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <orderedlist>
+                  <listitem>
+                    <simpara>Débloquer l’écrou de blocage de la perche.</simpara>
+                  </listitem>
+                </orderedlist>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata fileref="../51N_19_021.png" valign="middle" align="center" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <orderedlist continuation="continues">
+                  <listitem>
+                    <simpara>Ajuster la longueur de la perche voulue.</simpara>
+                  </listitem>
+                </orderedlist>
+                <important>
+                  <simpara>Conserver l’alignement de la tête de scie avec la poignée.</simpara>
+                </important>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata valign="middle" align="center" fileref="../51N_19_022.png" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <orderedlist continuation="continues">
+                  <listitem>
+                    <simpara>Bloquer l’écrou de blocage de la perche.</simpara>
+                  </listitem>
+                </orderedlist>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata fileref="../51N_19_023.png" valign="middle" align="center" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section>
+      <title>Démarrage</title>
+      <caution>
+        <simpara><inlinemediaobject><imageobject><imagedata depth="5mm" fileref="../Exclusion-Garantie_inLine.png"/></imageobject></inlinemediaobject> Ne jamais couper autre chose que du bois.</simpara>
+        <simpara>Toujours mettre en route le moteur avant de mettre la chaîne en contact avec le bois.</simpara>
+      </caution>
+      <warning>
+        <simpara><inlinemediaobject><imageobject><imagedata fileref="../Exclusion-Garantie_inLine.png" width="5mm"/></imageobject></inlinemediaobject> Avant la première utilisation, il est impératif de procéder au rodage du guide de chaîne et de la chaîne, voir <xref linkend="Rodage"/>. </simpara>
+      </warning>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <row>
+              <entry>
+                <orderedlist>
+                  <listitem>
+                    <simpara>Déposer le protecteur guide chaîne. </simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Mettre sous tension la batterie, voir <xref linkend="MiseSousHorsTensionBatterie"/>.</simpara>
+                    <simpara> Dès l'allumage du voyant de mise sous tension, l’outil est sous tension et est prêt à fonctionner.</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Maintenir la gâchette de sécurité (1) enfoncée en tenant l'outil par la poignée supérieure.</simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Afin de garantir la sécurité de l'outil lors des déplacements, un dispositif électronique bloque la commande du moteur 3 secondes après l’arrêt de celui-ci. Appuyer deux fois consécutivement sur la gâchette d'actionnement (2) pour redémarrer le moteur. L'outil tourne en maintenant au minimum la gâchette d'actionnement enfoncée. </simpara>
+                  </listitem>
+                  <listitem>
+                    <simpara>Relâcher la gâchette d'actionnement pour arrêter le moteur de l’outil.</simpara>
+                  </listitem>
+                </orderedlist>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata valign="middle" align="center" fileref="../51_22_020.png" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <important>
+        <simpara>Laisser travailler l'outil sans appuyer exagérément. </simpara>
+      </important>
+    </section>
+    <section>
+      <title>Dégagement d'urgence</title>
+      <simpara>La sangle de portage dispose d'un système de décrochage rapide permettant de se dégager de l'outil en cas d'urgence.</simpara>
+      <informaltable colsep="0" frame="none" rowsep="0">
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="5mm"/>
+          <colspec colname="_2" colwidth="84mm"/>
+          <tbody>
+            <row>
+              <entry>
+                <itemizedlist>
+                  <title>En cas d'urgence :</title>
+                  <listitem>
+                    <simpara>Appuyer sur la boucle de dégagement située sur la sangle de portage.</simpara>
+                  </listitem>
+                </itemizedlist>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <mediaobject role="borderedMedia">
+                  <imageobject>
+                    <imagedata valign="middle" fileref="../51_21_002.png" align="center" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+  </section>
+  <section xml:id="id_51N---148662-C--_Emergency-releas_74">
+    <title>Entretien</title>
+    <section xml:id="FrequenceOperations">
+      <title>Fréquence des opérations</title>
+      <xi:include xpointer="ATT_RecommandationSecuPbEntretien" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+        <xi:fallback/>
+      </xi:include>
+      <informaltable>
+        <tgroup cols="5">
+          <colspec colname="_1" colwidth="90mm"/>
+          <colspec colname="_12" align="center"/>
+          <colspec colname="_2" align="center"/>
+          <colspec colname="_12454" align="center"/>
+          <colspec align="center" colname="_124"/>
+          <thead>
+            <row rowsep="0">
+              <entry>
+                <simpara/>
+              </entry>
+              <entry valign="bottom">
+                <simpara>Avant</simpara>
+              </entry>
+              <entry valign="bottom">
+                <simpara>Pendant</simpara>
+              </entry>
+              <entry valign="bottom">
+                <simpara>Après </simpara>
+              </entry>
+              <entry rowsep="1" valign="middle" morerows="1">
+                <simpara>Hebdomadaire</simpara>
+              </entry>
+            </row>
+            <row rowsep="1">
+              <entry>
+                <simpara/>
+              </entry>
+              <entry valign="top">
+                <simpara role="glued">utilisation</simpara>
+              </entry>
+              <entry valign="top">
+                <simpara role="glued">utilisation<superscript>2</superscript></simpara>
+              </entry>
+              <entry valign="top">
+                <simpara role="glued">utilisation</simpara>
+              </entry>
+            </row>
+          </thead>
+          <tbody valign="middle">
+            <row>
+              <entry>
+                <simpara>Vérification visuelle de l'outil, voir <xref linkend="VerificationVisuelleOutil"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification de la gâchette de sécurité, voir <xref linkend="VerificationGachetteSecurite"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification de la gâchette d'actionnement, voir <xref linkend="VerificationGachetteActionnement"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification du système d'orientation perche, voir <xref linkend="VerificationSystemeOrientationPerche"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification de la pince serrage outil, voir <xref linkend="VerificationMolettePinceSerrage"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification cordon d'alimentation outil, voir <xref linkend="VerificationCordonAlimentation"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification voyant de mise sous tension, voir <xref linkend="VerificationVoyantMiseSousTension"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification du graissage de la chaîne, voir <xref linkend="VerificationGraissageChaine"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Réglage et vérification de la tension de la chaîne, voir <xref linkend="ReglageVerificationTensionChaineAutomatique"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification de l’affûtage de la chaîne, voir <xref linkend="VerificationAffutageChaine"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification et réglage des limiteurs de profondeur, voir <xref linkend="VerificationReglageLimiteursProfondeur"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Remplacement de la chaîne et du guide chaîne, voir <xref linkend="RemplacementChaineGuideChaine"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vérification visuelle et remplacement du pignon, voir <xref linkend="VerificationVisuelleRemplacementPignon"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Vidange du réservoir d'huile, voir <xref linkend="RemplacementHuileReservoir"/>.</simpara>
+              </entry>
+              <entry namest="_12" nameend="_124">
+                <simpara>En amont du stockage hors saison ou si nécessaire.</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Remplissage du réservoir d'huile, voir <xref linkend="RemplacementHuileReservoir"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Nettoyage de l'outil, voir <xref linkend="NettoyageOutil"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Nettoyage du guide de chaîne, voir <xref linkend="NettoyageGuideChaine"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Nettoyage du réservoir d'huile, voir <xref linkend="NettoyageReservoirHuile"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Lubrification forcée de la chaîne, voir <xref linkend="LubrificationForceeChaine"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara>X<superscript>1</superscript></simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Graissage du nez du guide de chaîne, voir <xref linkend="GraissageNezGuideChaine"/>.</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara>X</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+            <row>
+              <entry valign="top">
+                <simpara>Faire contrôler l’outil par un distributeur agréé</simpara>
+              </entry>
+              <entry namest="_12" align="justify" nameend="_124">
+                <warning>
+                  <simpara><inlinemediaobject><imageobject><imagedata depth="5mm" fileref="../Exclusion-Garantie_inLine.png"/></imageobject></inlinemediaobject> Faire réviser l'outil toutes les 200 heures ou 1 fois par an au minimum. Toujours stocker un outil propre et batterie chargée.</simpara>
+                </warning>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Batterie</simpara>
+              </entry>
+              <entry namest="_12" nameend="_124">
+                <simpara>Se référer à la notice d'instructions de la batterie.</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <itemizedlist>
+        <listitem>
+          <simpara><superscript>1</superscript> Règle de base.</simpara>
+        </listitem>
+        <listitem>
+          <simpara><superscript>2</superscript> A effectuer régulièrement lors de l'utilisation de l'outil.</simpara>
+        </listitem>
+      </itemizedlist>
+    </section>
+    <section>
+      <title>Vérification</title>
+      <section xml:id="VerificationVisuelleOutil">
+        <title>Vérification visuelle de l'outil</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <entry>
+                  <itemizedlist>
+                    <listitem>
+                      <simpara>Vérifier visuellement l'état général de l'outil.</simpara>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" fileref="../51_22_033.png" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="VerificationGachetteSecurite">
+        <title>Vérification de la gâchette de sécurité</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include xpointer="Cell01_VerificationGachetteSecurite" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_021.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="VerificationGachetteActionnement">
+        <title>Vérification la gâchette d'actionnement</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell01_VerificationGachetteActionnement">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_050.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="VerificationSystemeOrientationPerche">
+        <title>Vérification du système d'orientation perche</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <entry>
+                  <orderedlist>
+                    <listitem>
+                      <simpara>Vérifier le fonctionnement et l'état du système d'orientation perche.</simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>S'assurer qu'aucun élément physique (type scotch, collier) n'empêche ou ne gêne le fonctionnement du système d'orientation perche.</simpara>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_046.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="VerificationMolettePinceSerrage">
+        <title>Vérification de la pince serrage outil</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <entry>
+                  <orderedlist>
+                    <listitem>
+                      <simpara>Vérifier l'état général de la pince serrage outil.</simpara>
+                    </listitem>
+                    <listitem>
+                      <simpara>S'assurer qu'aucun élément physique (type scotch, collier) n'empêche ou ne gêne le fonctionnement de la pince serrage outil.</simpara>
+                    </listitem>
+                  </orderedlist>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" fileref="../51_22_047.png" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="VerificationCordonAlimentation">
+        <title>Vérification du cordon d'alimentation côté outil et côté batterie</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell01_VerificationCordonAlimentation">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" fileref="../51_22_048.png" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="VerificationVoyantMiseSousTension">
+        <title>Vérification du voyant de mise sous tension</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell01_VerificationVoyantMiseSousTension">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_049.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="VerificationGraissageChaine">
+        <title>Vérification du graissage de la chaîne</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include xpointer="Cell01_VerificationGraissageChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_064.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section xml:id="ReglageVerificationTensionChaineAutomatique">
+        <title>Réglage et vérification de la tension de la chaîne automatique (automatic tension)</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include xpointer="Cell01_ReglageTensionChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_022.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include xpointer="Lig02_VerificationTensionChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <xi:include xpointer="VerificationAffutageChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+        <xi:fallback/>
+      </xi:include>
+      <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="VerificationReglageLimiteursProfondeur">
+        <xi:fallback/>
+      </xi:include>
+    </section>
+    <section>
+      <title>Remplacement</title>
+      <section xml:id="RemplacementChaineGuideChaine">
+        <title>Remplacement de la chaîne et du guide</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <xi:include xpointer="Lig01_RemplacementChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+              <row>
+                <xi:include xpointer="Cell01_DeposeChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_025.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <row>
+                <xi:include xpointer="Cell02_DeposeChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_026.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell03_DeposeChaineGuideChaine">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_027.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell04_DeposeChaineGuideChaine">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_028.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include xpointer="Lig01_PoseChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell02_PoseChaineGuideChaine">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" fileref="../51_22_029.png" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <row>
+                <xi:include xpointer="Cell03_PoseChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" fileref="../51_22_030.png" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <row>
+                <xi:include xpointer="Cell04_PoseChaineGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_031.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lig05_PoseChaineGuideChaine">
+                <xi:fallback/>
+              </xi:include>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="VerificationVisuelleRemplacementPignon">
+        <xi:fallback/>
+      </xi:include>
+      <section xml:id="RemplacementHuileReservoir">
+        <title>Remplacement de l'huile du réservoir d'huile</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include xpointer="Cell01_VidangeReservoirHuile" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" fileref="../51_22_023.png" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include xpointer="Lig01_RemplacementRemplissageReservoirHuile" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+              <row>
+                <xi:include xpointer="Cell02_RemplacementRemplissageReservoirHuile" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" depth="59mm" fileref="../51_22_024.png"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include xpointer="Lig03_RemplacementRemplissageReservoirHuile" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                <xi:fallback/>
+              </xi:include>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+    </section>
+    <section xml:id="Nettoyage">
+      <title>Nettoyage</title>
+      <section role="noCut" xml:id="NettoyageOutil">
+        <title>Nettoyage de l'outil</title>
+        <warning>
+          <simpara><inlinemediaobject><imageobject><imagedata depth="5mm" fileref="../Exclusion-Garantie_inLine.png"/></imageobject></inlinemediaobject> Ne jamais utiliser de solvants (Trichloréthylène, White Spirit, essence, etc.) pour nettoyer l’outil.</simpara>
+        </warning>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <entry>
+                  <itemizedlist>
+                    <listitem>
+                      <simpara>Nettoyer l’outil à l’aide d’un chiffon humide et à l’air comprimé en insistant sur les parties en contact avec le bois (chaîne, guide de chaîne).</simpara>
+                    </listitem>
+                  </itemizedlist>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_20_047.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <xi:include xpointer="NettoyageGuideChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+        <xi:fallback/>
+      </xi:include>
+      <section role="noCut" xml:id="NettoyageReservoirHuile">
+        <title>Nettoyage du réservoir d'huile</title>
+        <warning>
+          <simpara><inlinemediaobject><imageobject><imagedata depth="5mm" fileref="../Exclusion-Garantie_inLine.png"/></imageobject></inlinemediaobject> Votre réservoir d’huile est équipé d’une crépine. Dans le cas où l’huile n’arrive pas à monter au niveau de la tête de scie, ramener votre outil chez votre distributeur agréé afin qu’il réalise le nettoyage de la crépine.</simpara>
+        </warning>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Cell01_NettoyageReservoirHuile">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" fileref="../51_22_060.png" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+    </section>
+    <section>
+      <title>Graissage</title>
+      <section xml:id="LubrificationForceeChaine">
+        <title>Lubrification forcée de la chaîne</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lign00_GraissageLubrificationForceeChaine">
+                <xi:fallback/>
+              </xi:include>
+              <row>
+                <xi:include xpointer="Cell01_GraissageLubrificationForceeChaine" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+                  <xi:fallback/>
+                </xi:include>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata valign="middle" align="center" fileref="../51_22_020.png" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+              <xi:include href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml" xpointer="Lign02_GraissageLubrificationForceeChaine">
+                <xi:fallback/>
+              </xi:include>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+      <section role="GraissageNezGuideChaine" xml:id="GraissageNezGuideChaine">
+        <title>Graissage du nez du guide de chaîne</title>
+        <informaltable colsep="0" frame="none" rowsep="0">
+          <tgroup cols="3">
+            <colspec colname="_1"/>
+            <colspec colname="_12" colwidth="5mm"/>
+            <colspec colname="_2" colwidth="84mm"/>
+            <tbody>
+              <row>
+                <entry>
+                  <itemizedlist>
+                    <listitem>
+                      <simpara><emphasis role="bold">Seulement pour les guides de chaîne standard et precision</emphasis></simpara>
+                      <simpara>Graisser quotidiennement le pignon du nez du guide de chaîne par le trou de graissage à l'aide de la pompe à graisse fournie.</simpara>
+                    </listitem>
+                  </itemizedlist>
+                  <note>
+                    <simpara>Consommables vendus séparément.</simpara>
+                  </note>
+                </entry>
+                <entry>
+                  <simpara/>
+                </entry>
+                <entry>
+                  <mediaobject role="borderedMedia">
+                    <imageobject>
+                      <imagedata fileref="../51_22_044.png" valign="middle" align="center" depth="59mm"/>
+                    </imageobject>
+                  </mediaobject>
+                </entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </section>
+    </section>
+  </section>
+  <section role="noCut" xml:id="id_51N---148662-C--_Incidents-and-tr_71">
+    <title>Incidents et dépannage</title>
+    <table>
+      <title/>
+      <tgroup cols="2">
+        <colspec colname="_1" colwidth="60mm"/>
+        <colspec colname="_13"/>
+        <thead>
+          <row>
+            <entry>
+              <simpara>Problèmes</simpara>
+            </entry>
+            <entry>
+              <simpara>Actions</simpara>
+            </entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>
+              <simpara>Perte d'efficacité et/ou de qualité de coupe de l'outil</simpara>
+            </entry>
+            <entry>
+              <simpara>Vérifier en premier lieu les règles de base :</simpara>
+              <itemizedlist>
+                <listitem>
+                  <simpara>Tension de chaîne : <xref linkend="ReglageVerificationTensionChaineAutomatique"/></simpara>
+                </listitem>
+                <listitem>
+                  <simpara>Lubrification de la chaîne : <xref linkend="VerificationGraissageChaine"/></simpara>
+                </listitem>
+                <listitem>
+                  <simpara>Affûtage de la chaîne : <xref linkend="VerificationAffutageChaine"/></simpara>
+                </listitem>
+                <listitem>
+                  <simpara>Réglage des limiteurs de profondeurs : <xref linkend="VerificationReglageLimiteursProfondeur"/></simpara>
+                </listitem>
+              </itemizedlist>
+              <simpara>Si le problème persiste, procéder  : </simpara>
+              <itemizedlist>
+                <listitem>
+                  <simpara>au nettoyage du guide de chaîne : <xref linkend="NettoyageGuideChaine"/></simpara>
+                </listitem>
+                <listitem>
+                  <simpara>et en cas d'utilisation d'un guide standard ou d'un guide precision, procéder au graissage du nez guide de chaîne anti kickback: : <xref linkend="GraissageNezGuideChaine"/></simpara>
+                </listitem>
+              </itemizedlist>
+              <simpara>Contrôler l’état du pignon et procéder à son remplacement si nécessaire : <xref linkend="VerificationVisuelleRemplacementPignon"/>.</simpara>
+              <simpara>Si aucunes des précédentes actions n'a résolu le problème, contacter un distributeur agréé ou S.A.V. <xi:include href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml" xpointer="nomSocietePellencSAS"><xi:fallback/></xi:include>.</simpara>
+            </entry>
+          </row>
+          <row>
+            <entry>
+              <simpara>L'outil ne démarre plus</simpara>
+            </entry>
+            <entry>
+              <itemizedlist>
+                <simpara>Contrôler les différents points suivants</simpara>
+                <listitem>
+                  <simpara>Vérifier que l'outil est bien connecté à la batterie, voir <xref linkend="ConnexionBatterieOutil"/>.</simpara>
+                </listitem>
+                <listitem>
+                  <simpara>Vérifier le niveau de charge de la batterie.</simpara>
+                </listitem>
+                <listitem>
+                  <simpara>Appuyer deux fois consécutivement sur la gâchette d'actionnement de l'outil.</simpara>
+                </listitem>
+              </itemizedlist>
+              <simpara>Si aucune des précédentes actions n'a résolu le problème, contacter un distributeur agréé ou le S.A.V. <xi:include href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml" xpointer="nomSocietePellencSAS"><xi:fallback/></xi:include> .</simpara>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </section>
+  <xi:include xpointer="RemisageTransport" href="ade7f4ca-9f88-43a8-840b-e539985e72eb-20190703091146792.xml">
+    <xi:fallback/>
+  </xi:include>
+  <?hard-pagebreak?>
+  
+  <section xml:id="id_51N---148662-C--_Accessories-and-_76">
+    <title>Accessoires et consommables</title>
+    <section>
+      <title>Accessoires inclus</title>
+      <informaltable>
+        <tgroup cols="2">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="50mm"/>
+          <thead>
+            <row>
+              <entry>
+                <simpara/>
+              </entry>
+              <entry>
+                <simpara>référence</simpara>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <simpara>Pompe à graisse pour guide chaîne</simpara>
+              </entry>
+              <entry>
+                <simpara>68518</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Étau de maintien</simpara>
+              </entry>
+              <entry>
+                <simpara>68519</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Kit d'affûtage</simpara>
+              </entry>
+              <entry>
+                <simpara>68520</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Lime ronde (boite de 12)</simpara>
+              </entry>
+              <entry>
+                <simpara>68521</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Lime plate (boite de 12)</simpara>
+              </entry>
+              <entry>
+                <simpara>68522</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Lime ronde (blister de 3)</simpara>
+              </entry>
+              <entry>
+                <simpara>68611</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section>
+      <title>Accessoires en option</title>
+      <informaltable>
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="20mm"/>
+          <colspec colwidth="84mm" colname="_123"/>
+          <thead>
+            <row>
+              <entry>
+                <simpara>Désignation</simpara>
+              </entry>
+              <entry>
+                <simpara>référence</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <simpara>Harnais Alpha</simpara>
+              </entry>
+              <entry>
+                <simpara>57194</simpara>
+              </entry>
+              <entry morerows="3">
+                <mediaobject>
+                  <imageobject>
+                    <imagedata valign="middle" align="center" fileref="../51_20_039.png" depth="59mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Batterie <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include> ALPHA 260</simpara>
+              </entry>
+              <entry>
+                <simpara>57192</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Batterie <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include> ALPHA 520</simpara>
+              </entry>
+              <entry>
+                <simpara>57193</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Rallonge</simpara>
+              </entry>
+              <entry>
+                <simpara>57248</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <informaltable>
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="20mm"/>
+          <colspec colwidth="84mm" colname="_123"/>
+          <thead>
+            <row>
+              <entry>
+                <simpara>Désignation</simpara>
+              </entry>
+              <entry>
+                <simpara>référence</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <simpara>Pack batterie <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include> ULIB 250</simpara>
+              </entry>
+              <entry>
+                <simpara>57107</simpara>
+              </entry>
+              <entry morerows="1">
+                <mediaobject>
+                  <imageobject>
+                    <imagedata fileref="../51_20_041.png" valign="middle" align="center" depth="39mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Rallonge</simpara>
+              </entry>
+              <entry>
+                <simpara>57238</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <informaltable>
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="20mm"/>
+          <colspec colwidth="84mm" colname="_123"/>
+          <thead>
+            <row>
+              <entry>
+                <simpara>Désignation</simpara>
+              </entry>
+              <entry>
+                <simpara>référence</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <simpara>Harnais confort</simpara>
+              </entry>
+              <entry>
+                <simpara>57183</simpara>
+              </entry>
+              <entry morerows="3">
+                <mediaobject>
+                  <imageobject>
+                    <imagedata valign="middle" align="center" depth="59mm" fileref="../51_20_040.png"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Harnais léger</simpara>
+              </entry>
+              <entry>
+                <simpara>57257</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Batterie <xi:include xpointer="nomSocietePellenc" href="../231dc463-6138-4121-a8a6-4d664205837b-20180903090310979.xml"><xi:fallback/></xi:include> ULIB 750</simpara>
+              </entry>
+              <entry>
+                <simpara>57191</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Rallonge</simpara>
+              </entry>
+              <entry>
+                <simpara>57238</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      <informaltable>
+        <tgroup cols="3">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="20mm"/>
+          <colspec colwidth="84mm" colname="_123"/>
+          <thead>
+            <row>
+              <entry>
+                <simpara>Désignation</simpara>
+              </entry>
+              <entry>
+                <simpara>référence</simpara>
+              </entry>
+              <entry>
+                <simpara/>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <simpara>Pack batterie Olivion+</simpara>
+              </entry>
+              <entry>
+                <simpara>57173</simpara>
+              </entry>
+              <entry morerows="1">
+                <mediaobject>
+                  <imageobject>
+                    <imagedata fileref="../51_20_042.png" valign="middle" align="center" depth="39mm"/>
+                  </imageobject>
+                </mediaobject>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Rallonge</simpara>
+              </entry>
+              <entry>
+                <simpara>57237</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+    <section>
+      <title>Consommables</title>
+      <informaltable>
+        <tgroup cols="2">
+          <colspec colname="_1"/>
+          <colspec colname="_12" colwidth="50mm"/>
+          <thead>
+            <row>
+              <entry/>
+              <entry>
+                <simpara>références</simpara>
+              </entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>
+                <simpara>Bidon de 5L d'huile BIO</simpara>
+              </entry>
+              <entry>
+                <simpara>116688</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Kit pignon chaîne 9dents 1/4 SELION</simpara>
+              </entry>
+              <entry>
+                <simpara>79087</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Circlips pour arbre 12</simpara>
+              </entry>
+              <entry>
+                <simpara>01357</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Guide de chaîne précision (9.4" - 1/4") <emphasis> compatible avec chaîne ref. 138883</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>138823</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Chaîne précision 55E (9.4" - 1/4") <emphasis>compatible
+avec guide ref. 138823</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>138883</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Guide de chaîne précision (6" - 1/4") <emphasis> compatible avec chaîne ref. 138880</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>138788</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Chaîne précision 41E (6" - 1/4") <emphasis>compatible avec guide ref. 138788</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>138880</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Guide de chaîne carving (6" - 1/4") <emphasis> compatible avec chaîne ref. 71550</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>80343</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Chaîne précision 42E (6" - 1/4") <emphasis>compatible avec guide ref. 80343</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>71550</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Guide de chaîne (10" - 1/4") <emphasis> compatible avec chaîne ref. 64486</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>66756</simpara>
+              </entry>
+            </row>
+            <row>
+              <entry>
+                <simpara>Chaîne 58E (10" - 1/4") <emphasis>compatible avec guide ref. 66756</emphasis></simpara>
+              </entry>
+              <entry>
+                <simpara>64486</simpara>
+              </entry>
+            </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+    </section>
+  </section>
+  <section>
+    <title>Les garanties</title>
+    <xi:include href="d6d95eca-80c9-40d5-9283-8df1f774c2a5-20180807094023907.xml">
+      <xi:fallback/>
+    </xi:include>
+  </section>
+  <?hard-pagebreak?>
+  
+  <section>
+    <title>Déclarations de conformité</title>
+    <xi:include href="4c3021ac-f499-4dff-b9f1-e2c9b75bd109.xml">
+      <xi:fallback/>
+    </xi:include>
+    <?hard-pagebreak?>
+    
+    <xi:include href="51_SelionT_DeclarationCE_Conformite_Maroc.xml">
+      <xi:fallback/>
+    </xi:include>
+  </section>
+</article>
